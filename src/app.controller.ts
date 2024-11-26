@@ -34,7 +34,7 @@ export class AppController {
       kedvezmeny: 30,
     }
   ];
-  nextId = 4;
+  nextId = 3;
 
   @Get('travels')
   listazas() {
